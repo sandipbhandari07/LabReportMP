@@ -1,6 +1,8 @@
 MP Lab report 
 
+
 LAB 1
+
 1. Develop an android application to display "Welcome to mobile
 programming!" on screen.
 2. Develop an android application to display Name, Address and Phone
@@ -10,7 +12,10 @@ Vertically on the screen using Linear Layout.
 4. Write an android program to display five students basic information
 in a table form using Table Layout.
 5. Develop an android application to display all the data types in objectoriented programming using FrameLayout.
- LAB 2
+ 
+
+LAB 2
+ 
 1. Develop an android application to accept username and password
 from the end user using TextView and EditText
 2. Develop an android application to accept and display personal
@@ -23,7 +28,8 @@ string array.
 progress bar
 
 
- LAB 3
+LAB 3
+ 
 1. Develop an android application to pass a variable to the layout using
 data binding.
 2. Develop an android application to show five checkboxes and toast
