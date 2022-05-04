@@ -39,7 +39,10 @@ selected checkboxes
 activity.
 5. Demonstrate how to register listeners and handle events in Android
 Programming.
- LAB 4
+
+
+LAB 4
+
 1. Develop an android application to display list of items using Android
 ListView
 2. Develop an android application to select and display date and time
@@ -51,3 +54,19 @@ information and display in another activity.
 using Activity Intents.
 5. Write an android program to demonstrate use of Implicit intent to
 call another application.
+
+
+LAB 5
+
+1. Develop an android program to send data from an activity to a
+custom dialog box.
+2. Write an android program to create dynamic lists using Android
+Recyclerview
+3. Develop an android application to insert data in SQLite database and
+show the added records
+4. Develop an android application to update and delete the added
+records SQLite database.
+5. Develop an android application to create the login form and display
+Login Successful / Unsuccessful toast message
+6. Develop an android application to send and receive the data from an
+API.
