@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="example.files.labreport">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LabReport">
+        <activity
+            android:name=".labreport4_1"
+            android:exported="false" />
+        <activity
+            android:name=".labreport3_2"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".labreport3_1"
+            android:exported="false" />
+        <activity
+            android:name=".labreport3_3"
+            android:exported="false" />
+        <activity
+            android:name=".labreport2_2"
+            android:exported="false" />
+        <activity
+            android:name=".labreport2_1"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LabReport1_4"
+            android:exported="false" />
+        <activity
+            android:name=".LabReport1_3"
+            android:exported="false" />
+        <activity
+            android:name=".labReport1_2"
+            android:exported="false" />
+    </application>
+
+</manifest>
